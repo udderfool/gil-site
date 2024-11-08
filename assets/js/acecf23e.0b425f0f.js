@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgil_site=self.webpackChunkgil_site||[]).push([[903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/gil-site/personal-projects","blogTitle":"Blog","authorsListPath":"/gil-site/personal-projects/authors"}')}}]);

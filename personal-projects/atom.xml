@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://guilla.in/gil-site/personal-projects</id>
+    <title>  Blog</title>
+    <updated>2024-09-11T23:46:40.453Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://guilla.in/gil-site/personal-projects"/>
+    <subtitle>  Blog</subtitle>
+    <icon>https://guilla.in/gil-site/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Spider Robot]]></title>
+        <id>https://guilla.in/gil-site/personal-projects/Spider-bot</id>
+        <link href="https://guilla.in/gil-site/personal-projects/Spider-bot"/>
+        <updated>2024-09-11T23:46:40.453Z</updated>
+        <summary type="html"><![CDATA[This is my first Docusaurus document!]]></summary>
+        <content type="html"><![CDATA[<p>This is my <strong>first Docusaurus document</strong>!</p>]]></content>
+    </entry>
+</feed>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgil_site=self.webpackChunkgil_site||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Personal Projects","items":[{"title":"Spider Robot","permalink":"/gil-site/personal-projects/Spider-bot","unlisted":false,"date":"2024-09-11T23:46:40.453Z"}]}')}}]);

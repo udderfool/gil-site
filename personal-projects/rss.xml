@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>  Blog</title>
+        <link>https://guilla.in/gil-site/personal-projects</link>
+        <description>  Blog</description>
+        <lastBuildDate>Wed, 11 Sep 2024 23:46:40 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Spider Robot]]></title>
+            <link>https://guilla.in/gil-site/personal-projects/Spider-bot</link>
+            <guid>https://guilla.in/gil-site/personal-projects/Spider-bot</guid>
+            <pubDate>Wed, 11 Sep 2024 23:46:40 GMT</pubDate>
+            <description><![CDATA[This is my first Docusaurus document!]]></description>
+            <content:encoded><![CDATA[<p>This is my <strong>first Docusaurus document</strong>!</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
